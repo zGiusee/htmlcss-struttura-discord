@@ -11,7 +11,7 @@
     justify-content: center;
 }
 
-/* ROW */
+/* ROW AND CONTENT */
  
 .footer-list-row{
     height: 440px;
@@ -82,7 +82,7 @@
     height: 600px;
 }
 
-/* LOGO LINK LOGIN */
+/* POSITIONING */
 
 .align-top{
     align-self: first baseline;
@@ -118,10 +118,6 @@
 
 /* COLUMN */
 
-.col-30{
-    width: calc(30%);
-}
-
 .col-20{
     width: calc(20%);
 }
@@ -136,10 +132,6 @@
 
 .col-50{
     width: calc(50%);
-}
-
-.col-25{
-    width: calc(25%);
 }
 
 .col-15{
