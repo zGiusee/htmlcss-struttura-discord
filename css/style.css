@@ -13,9 +13,15 @@
 
 /* ROW */
  
+.footer-list-row{
+    height: 440px;
+    display: flex;
+    width: 50%;
+}
+
 .footer-row{
     display: flex;
-    height: 100px;
+    height: 70px;
     width: 50%;
 }
 
