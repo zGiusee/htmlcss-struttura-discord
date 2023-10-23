@@ -49,7 +49,7 @@
     padding: 10px;
     display: flex;
     height: 25px;
-    max-width: 350px;
+    max-width: 600px;
     justify-content: center;
 }
 
@@ -129,10 +129,10 @@
 
 
 /* BORDI */
-
+/* 
 *{
     border: 1px dashed red;
-}
+} */
 
 /* COLUMN */
 
